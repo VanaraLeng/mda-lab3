@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TableLayoutTest</string>
+    <string name="enter_android_version">Enter Android Version</string>
+    <string name="enter_android_code_name">Enter Android Code Name</string>
+    <string name="add">ADD</string>
+    <string name="sign_in_title">Sign in to your account</string>
+    <string name="don_t_have_account_yet">Don\'t have account yet?</string>
+    <string name="forget_password">Forget password?</string>
+    <string name="password_field">Password (required)</string>
+    <string name="signup_button">Create a new account</string>
+    <string name="sign_in_button">Sign In</string>
+    <string name="email_field">Email address (required)</string>
+</resources>
